@@ -1,0 +1,1982 @@
+[
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_fprintf/fprint3.o",
+            "my_fprintf/fprint3.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_fprintf/fprint3.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/load_world/create_texture.o",
+            "src/load_world/create_texture.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/load_world/create_texture.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/load_game.o",
+            "src/load_game.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/load_game.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/fire_particle_sys.o",
+            "src/fire_particle_sys.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/fire_particle_sys.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/stat_point/draw_ui.o",
+            "src/stat_point/draw_ui.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/stat_point/draw_ui.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/character/character_logic.o",
+            "src/character/character_logic.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/character/character_logic.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_fput_nbr.o",
+            "my_fput_nbr.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_fput_nbr.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/inventory/init_inventory.o",
+            "src/inventory/init_inventory.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/inventory/init_inventory.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_put_u_nbr.o",
+            "my_put_u_nbr.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_put_u_nbr.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/inventory/item/init_items.o",
+            "src/inventory/item/init_items.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/inventory/item/init_items.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_getnbr.o",
+            "my_getnbr.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_getnbr.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/inventory/draw_inventory.o",
+            "src/inventory/draw_inventory.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/inventory/draw_inventory.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/monsters/monsters_logic.o",
+            "src/monsters/monsters_logic.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/monsters/monsters_logic.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/monsters/init_monster_health_bar.o",
+            "src/monsters/init_monster_health_bar.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/monsters/init_monster_health_bar.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_fput_uns_nbr.o",
+            "my_fput_uns_nbr.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_fput_uns_nbr.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_printf/modifiers.o",
+            "my_printf/modifiers.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_printf/modifiers.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/anim.o",
+            "src/anim.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/anim.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/main.o",
+            "src/main.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/main.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_fprintf/my_fprintf.o",
+            "my_fprintf/my_fprintf.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_fprintf/my_fprintf.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_strncmp.o",
+            "my_strncmp.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_strncmp.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/create_button.o",
+            "src/create_button.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/create_button.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_strcmp.o",
+            "my_strcmp.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_strcmp.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "free_double_array.o",
+            "free_double_array.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "free_double_array.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/find_char.o",
+            "src/find_char.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/find_char.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_strstr.o",
+            "my_strstr.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_strstr.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/npc/dialogue/get_dialogues.o",
+            "src/npc/dialogue/get_dialogues.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/npc/dialogue/get_dialogues.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/character/stat_logic.o",
+            "src/character/stat_logic.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/character/stat_logic.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/anim_game.o",
+            "src/anim_game.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/anim_game.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_fputchar.o",
+            "my_fputchar.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_fputchar.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/character/init_stats_bars.o",
+            "src/character/init_stats_bars.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/character/init_stats_bars.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/stat_point/stat_point_logic.o",
+            "src/stat_point/stat_point_logic.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/stat_point/stat_point_logic.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/game_loop.o",
+            "src/game_loop.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/game_loop.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/character/init_boxes.o",
+            "src/character/init_boxes.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/character/init_boxes.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/init_game_data.o",
+            "src/init_game_data.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/init_game_data.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_isneg.o",
+            "my_isneg.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_isneg.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "is_alphanumeric.o",
+            "is_alphanumeric.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "is_alphanumeric.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_put_uns_nbr.o",
+            "my_put_uns_nbr.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_put_uns_nbr.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/collisions_logic.o",
+            "src/collisions_logic.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/collisions_logic.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_printf/print3.o",
+            "my_printf/print3.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_printf/print3.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/game_logic.o",
+            "src/game_logic.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/game_logic.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_str_to_word_array.o",
+            "my_str_to_word_array.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_str_to_word_array.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_revstr.o",
+            "my_revstr.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_revstr.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_printf/print.o",
+            "my_printf/print.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_printf/print.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "multiple_fd.o",
+            "multiple_fd.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "multiple_fd.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "concate.o",
+            "concate.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "concate.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_strncpy.o",
+            "my_strncpy.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_strncpy.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/inventory/init_rectangle.o",
+            "src/inventory/init_rectangle.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/inventory/init_rectangle.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_put_nbr.o",
+            "my_put_nbr.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_put_nbr.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/rain_particle_sys.o",
+            "src/rain_particle_sys.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/rain_particle_sys.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/npc/search_npc.o",
+            "src/npc/search_npc.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/npc/search_npc.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_strcpy.o",
+            "my_strcpy.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_strcpy.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/window.o",
+            "src/window.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/window.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/npc/dialogue/draw_dialogue_box.o",
+            "src/npc/dialogue/draw_dialogue_box.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/npc/dialogue/draw_dialogue_box.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "get_arr_size.o",
+            "get_arr_size.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "get_arr_size.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/npc/init_npcs.o",
+            "src/npc/init_npcs.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/npc/init_npcs.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/character/fight_logic.o",
+            "src/character/fight_logic.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/character/fight_logic.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/character/init_character.o",
+            "src/character/init_character.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/character/init_character.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/character/move_character.o",
+            "src/character/move_character.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/character/move_character.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/monsters/fight_logic.o",
+            "src/monsters/fight_logic.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/monsters/fight_logic.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/npc/draw_npc.o",
+            "src/npc/draw_npc.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/npc/draw_npc.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_itoa.o",
+            "my_itoa.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_itoa.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/load_world/load_map.o",
+            "src/load_world/load_map.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/load_world/load_map.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_memset.o",
+            "my_memset.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_memset.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/display_button.o",
+            "src/display_button.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/display_button.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/inventory/item/item_logic.o",
+            "src/inventory/item/item_logic.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/inventory/item/item_logic.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/inventory/item/item_bank.o",
+            "src/inventory/item/item_bank.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/inventory/item/item_bank.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_strlen.o",
+            "my_strlen.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_strlen.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_strdup.o",
+            "my_strdup.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_strdup.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_printf/my_printf.o",
+            "my_printf/my_printf.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_printf/my_printf.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_putstr.o",
+            "my_putstr.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_putstr.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_fprintf/fprint2.o",
+            "my_fprintf/fprint2.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_fprintf/fprint2.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/update_fire_particle_sys.o",
+            "src/update_fire_particle_sys.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/update_fire_particle_sys.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/init_resources.o",
+            "src/init_resources.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/init_resources.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/quest/check_quests.o",
+            "src/quest/check_quests.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/quest/check_quests.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/load_world/load_monsters.o",
+            "src/load_world/load_monsters.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/load_world/load_monsters.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/push_button.o",
+            "src/push_button.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/push_button.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_putchar.o",
+            "my_putchar.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_putchar.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/draw_game.o",
+            "src/draw_game.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/draw_game.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/inventory/inventory_logic.o",
+            "src/inventory/inventory_logic.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/inventory/inventory_logic.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/npc/dialogue/init_dialogue.o",
+            "src/npc/dialogue/init_dialogue.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/npc/dialogue/init_dialogue.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/monsters/flip_monster.o",
+            "src/monsters/flip_monster.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/monsters/flip_monster.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_swap.o",
+            "my_swap.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_swap.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/inventory/draw_inventory_boxes.o",
+            "src/inventory/draw_inventory_boxes.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/inventory/draw_inventory_boxes.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/save_game.o",
+            "src/save_game.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/save_game.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_realloc.o",
+            "my_realloc.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_realloc.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/character/init_anims.o",
+            "src/character/init_anims.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/character/init_anims.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_calloc.o",
+            "my_calloc.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_calloc.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/stat_point/init_ui.o",
+            "src/stat_point/init_ui.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/stat_point/init_ui.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/create_anim_from_file.o",
+            "src/create_anim_from_file.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/create_anim_from_file.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_fprintf/fmodifiers.o",
+            "my_fprintf/fmodifiers.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_fprintf/fmodifiers.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/monsters/move_monsters.o",
+            "src/monsters/move_monsters.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/monsters/move_monsters.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_show_word_array.o",
+            "my_show_word_array.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_show_word_array.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/monsters/init_monster.o",
+            "src/monsters/init_monster.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/monsters/init_monster.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/load_world/load_events.o",
+            "src/load_world/load_events.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/load_world/load_events.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_compute_power_rec.o",
+            "my_compute_power_rec.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_compute_power_rec.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_printf/store_options.o",
+            "my_printf/store_options.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_printf/store_options.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/inventory/item/item_interaction.o",
+            "src/inventory/item/item_interaction.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/inventory/item/item_interaction.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "get_next_line.o",
+            "get_next_line.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "get_next_line.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/character/character_event.o",
+            "src/character/character_event.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/character/character_event.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_printf/print2.o",
+            "my_printf/print2.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_printf/print2.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_printf/get_options.o",
+            "my_printf/get_options.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_printf/get_options.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_fput_u_nbr.o",
+            "my_fput_u_nbr.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_fput_u_nbr.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "get_u_nb_size.o",
+            "get_u_nb_size.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "get_u_nb_size.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_fputstr.o",
+            "my_fputstr.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_fputstr.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/character/draw_character.o",
+            "src/character/draw_character.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/character/draw_character.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/create_box.o",
+            "src/create_box.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/create_box.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/quest/init_quest.o",
+            "src/quest/init_quest.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/quest/init_quest.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/inventory/setting.o",
+            "src/inventory/setting.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/inventory/setting.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "my_fprintf/fprint.o",
+            "my_fprintf/fprint.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019/lib/my",
+        "file": "my_fprintf/fprint.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I",
+            "./include",
+            "-Wall",
+            "-Wextra",
+            "-I",
+            "./include",
+            "-g",
+            "-o",
+            "src/inventory/check_for_item_in_inventory.o",
+            "src/inventory/check_for_item_in_inventory.c"
+        ],
+        "directory": "/home/Tek-0/delivery/MUL_my_rpg_2019",
+        "file": "src/inventory/check_for_item_in_inventory.c"
+    }
+]
